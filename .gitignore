@@ -9,7 +9,7 @@ venv/
 env/
 
 # Screenshots 
-screenshots/
+# screenshots/
 
 # Playwright browsers
 playwright-browsers/
