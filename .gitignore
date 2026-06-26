@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Screenshots 
+screenshots/
+
+# Playwright browsers
+playwright-browsers/
+
+# VS Code settings
+.vscode/
+
+# Fix scripts (temporary)
+fix_*.py
+write_pages.py
+
+# HTML reports
+report.html
+
+# OS files
+.DS_Store
+Thumbs.db
